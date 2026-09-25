@@ -1,0 +1,6 @@
+{
+  "name": "PyPrep - Campus Placement Engine",
+  "description": "Interactive Python placement preparation for engineering graduates featuring company-specific MCQs, live code runner, memory dry-run visualizers, and core placement concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
